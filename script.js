@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Tusi please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "are you sure?",
+    "sure kanaba dimo ako bati"
+    "ayaw mo talaga?:(",
+    "hindi na kita asarin :(",
+    "chase please...",
+    "pretty please...",
+    "bati napo tayo...",
+    "im really sorry chase:(...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, akala mo sukuan ko agad 😜"
 ];
 
 let messageIndex = 0;
